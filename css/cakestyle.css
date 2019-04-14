@@ -24,7 +24,7 @@ body {
 .grid{
       display: grid;
       grid-template-columns: 1fr 400px 400px 1fr;
-      grid-template-rows: 70px 1fr 5px 1fr;
+      grid-template-rows: 70px 1fr 5px 300px;
       grid-template-areas: 
       "header header header header"
       "sidebar sidebar sidebar sidebar"
